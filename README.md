@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Balakrishnan's github stats](https://github-stats-alpha.vercel.app/api/?username=Balakrishnan17)
+
 <!--
 **Balakrishnan17/Balakrishnan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
