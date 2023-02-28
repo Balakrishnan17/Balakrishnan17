@@ -4,7 +4,7 @@ Thank you for your interest in my profile
 </br>
 </br>
 
-![Profile Views]([https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prabha-coder/&title=Profile%20Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Balakrishnan17/&title=Profile%20Views))
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Balakrishnan17/&title=Profile%20Views)
 
 - 🔭 I’m Full Stack Developer.
 - 🌱 I’m currently learning Docker and GraphQL
