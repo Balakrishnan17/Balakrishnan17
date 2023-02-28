@@ -19,15 +19,13 @@ Thank you for your interest in my profile
 <img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
 <img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
 <img align="left" alt="Angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angular.svg" />
-<img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/php.svg" />
 <img align="left" alt="Node.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
-<img align="left" alt="Golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/go.svg" />
+<img align="left" alt="Nest.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/nestjs.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+<img align="left" alt="PostgreSQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
-<img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cloudflare.svg" />
-<img align="left" alt="cPanel" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cpanel.svg" />
 <img align="left" alt="Google Apps Script" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/google.svg" />
 
 </br>
