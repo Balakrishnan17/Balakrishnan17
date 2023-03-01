@@ -13,14 +13,16 @@ Thank you for your interest in my profile
 
 ### Skills 👨‍💻
 
+<img align="left" alt="Node.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
+<img align="left" alt="Nest.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/nestjs.svg" />
+<img align="left" alt="Angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angular.svg" />
+<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
+<img align="left" alt="Electron.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/electron.svg" />
 <img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<img align="left" alt="Typescript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/typescript.svg" />
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
-<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
-<img align="left" alt="Angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angular.svg" />
-<img align="left" alt="Node.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
-<img align="left" alt="Nest.JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/nestjs.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
 <img align="left" alt="PostgreSQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
